@@ -9,3 +9,4 @@ my_Url = "https://www.olx.com.pk/property-for-sale_c2"
 html2 = urlopen("https://www.olx.com.pk/property-for-sale_c2")
 # by using read() function we can read all material of the data
 print(html2.read())
+# this is simple approch
